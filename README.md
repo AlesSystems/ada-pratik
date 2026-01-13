@@ -191,7 +191,7 @@ yarn dev
 pnpm dev
 ```
 
-Uygulama `http://localhost:3000` adresinde çalışacaktır.
+Uygulama `http://localhost:3008` adresinde çalışacaktır.
 
 ### Ortam Değişkenleri
 
